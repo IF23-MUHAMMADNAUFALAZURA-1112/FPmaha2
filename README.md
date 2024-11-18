@@ -19,6 +19,6 @@ Event Mahabarata ini adalah sebuah sistem untuk mengelola event trip dan hiking 
 
 ## 👥 Anggota Kelompok
 - Muhammad Naufal Azura (1112/ Frontend)
-- Muhammad Dira (Backend)
-- Ananda Dwinurrohmah (Database Administrator)
+- Muhammad Dira (1053/Backend)
+- Ananda Dwi nurrohmah (1264 / database & dukumen )
  
